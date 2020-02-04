@@ -317,8 +317,8 @@ margin-bottom: 4px;
 }
 
 .timeline-item p {
-    padding: 0;
-    margin:  0;
+padding: 0;
+margin: 0;
 }
 
 .timeline-item::before {
